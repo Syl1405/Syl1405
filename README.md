@@ -5,19 +5,19 @@
 
 - 💪 I’m currently a master's student studying Computer Science at **Oregon State University**
 
-- 👨‍💻 All of my projects are available at [https://syl1405.github.io/](https://syl1405.github.io/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://syl1405.github.io/)
 
 - 💬 Ask me about **Software/Frontend Develop, Natural Language Processing, Infrastructure**
 
 - 📫 How to reach me **liuwenc@oregonstate.edu**
 
-- 📄 Know about my experiences [https://syl1405.github.io/wenchiliu_resume.pdf](https://syl1405.github.io/wenchiliu_resume.pdf)
+- 📄 Know about my experiences from my [resume](https://syl1405.github.io/wenchiliu_resume.pdf)
 
-- ⚡ Fun fact **I can't live without sushi and boba tea**
+- ⚡ Fun fact **I always know where to get the best sushi🍣 and boba tea🍵 in town**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wen-chi-liu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wen-chi-liu/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wen-chi-liu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wen-chi-liu/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
