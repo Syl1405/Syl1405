@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sylvia</h1>
-<h3 align="center">A passionate engineer currently in United States</h3>
+<h3 align="center">A passionate engineer currently in 📍United States</h3>
 
 - 🔭 I’m currently working at **Google** as a software engineer intern
 
