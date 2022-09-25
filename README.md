@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences from my [resume](https://syl1405.github.io/wenchiliu_resume.pdf)
 
-- ⚡ Fun fact **I always know where to get the best sushi🍣 and boba tea🍵 in town**
+- ⚡ Fun fact: **I always know where to get the best sushi🍣 and boba tea🍵 in town**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
