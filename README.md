@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://syl1405.github.io/)
 
-- 💬 Ask me about **Software/Frontend Develop, Natural Language Processing, Infrastructure**
+- 💬 Ask me about **Software/Frontend Develop, Natural Language Processing**
 
 - 📫 How to reach me **liuwenc@oregonstate.edu**
 
 - 📄 Know about my experiences from my [resume](https://syl1405.github.io/wenchiliu_resume.pdf)
 
-- ⚡ Fun fact: **I always know where to get the best sushi🍣 and boba tea🍵 in town**
+- ⚡ **I always know where to get the best sushi🍣 and boba tea🍵 in town**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
