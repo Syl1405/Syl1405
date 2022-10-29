@@ -5,8 +5,6 @@
 
 - 💪 I’m currently a master's student studying Computer Science at **Oregon State University**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://syl1405.github.io/)
-
 - 💬 Ask me about **Software/Frontend Develop, Natural Language Processing**
 
 - 📫 How to reach me **liuwenc@oregonstate.edu**
