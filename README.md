@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sylvia</h1>
 <h3 align="center">A passionate software engineer currently in 📍United States</h3>
 
-- 🔭 I’m currently working at **Google** as a software engineer intern
+- 🔭 I’m currently working at **Google** as a software engineer
 
 - 💪 I’m currently a master's student studying Computer Science at **Oregon State University**
 
